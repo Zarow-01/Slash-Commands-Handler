@@ -1,6 +1,7 @@
 <div align="center">
 
-## ```js
+## Hi there 👋
+```js
 require('deleveloppement-industry.js')
 ```
 #
