@@ -1,0 +1,5 @@
+{
+  "clientID": "CLIENT_APPLICATION_ID",  
+  "prefix": "PREFIX_FOR_YOUR_BOT",
+  "owner": "OWNER_ID"
+  }
