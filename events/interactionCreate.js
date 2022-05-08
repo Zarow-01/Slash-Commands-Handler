@@ -12,7 +12,7 @@ module.exports = {
     } catch (error) {
       console.error(error);
       await interaction.reply({
-        content: "> **<:Error:794197754950975528> ➜ Une erreur s\'est produite lors de l\'exécution de cette commande ! **",
+        content: "> **Une erreur s\'est produite lors de l\'exécution de cette commande ! **",
         ephemeral: true,
       });
     }
