@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 ```js
-require('deleveloppement-industry.js')
+require('zarow.js')
 ```
 #
 
