@@ -8,7 +8,7 @@ require('zarow.js')
 
 Hey ! Voici mon Premier Projet. J'espère qu'il vous plaira ! Si vous avez quelconques problèmes n'hésitez pas à m'ajouter sur Discord (Cliquer sur le bouton qui sera en bas de page).
 
-Ce projet à pour but à vous aider sur les Slash-Commands de Discord.JS [Version utilisée : 13.6.0] 
+Ce projet à pour but de vous aider sur les Slash-Commands de Discord.JS [Version utilisée : 13.6.0] 
  
 ## 📋 My social !
 
