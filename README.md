@@ -13,5 +13,5 @@ Ce projet à pour but de vous aider sur les Slash-Commands de Discord.JS [Versio
 ## 📋 My social !
 
 <a href="https://discord.com/users/372771862960275456"><img src="https://i.imgur.com/7GB2pPW.png" height="60px"></a>
-<a href="https://github.com/Developpement-Industry/Readme.md"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
+<a href="https://github.com/Zarow-01/"><img src="https://i.imgur.com/Jf9shUY.png" height="60px"></a>
 </div>
